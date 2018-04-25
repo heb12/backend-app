@@ -1,2 +1,2 @@
-# backend-if-other-is-down
-The backend repo if the original backend is down.
+# backend-app
+The backend version of the app in case the app or internet is down
